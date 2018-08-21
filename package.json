@@ -1,6 +1,6 @@
 {
   "name": "wenyanzhu-npm-package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "my npm package",
   "main": "index.js",
   "scripts": {
