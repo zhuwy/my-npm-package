@@ -1,0 +1,22 @@
+{
+  "name": "mynpm-package",
+  "version": "1.0.0",
+  "description": "my npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuwy/my-npm-package.git"
+  },
+  "keywords": [
+    "wenyan"
+  ],
+  "author": "wenyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuwy/my-npm-package/issues"
+  },
+  "homepage": "https://github.com/zhuwy/my-npm-package#readme"
+}
